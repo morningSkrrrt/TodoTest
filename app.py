@@ -3,7 +3,6 @@ import uuid
 
 app = Flask(__name__)
 
-# Mock data - replace this with a database in a real application
 tasks = []
 
 @app.route('/')
