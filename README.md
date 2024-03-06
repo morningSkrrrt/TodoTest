@@ -1,2 +1,2 @@
 # TodoTest
-test add todo list
+test automation for adding items in a todo list
